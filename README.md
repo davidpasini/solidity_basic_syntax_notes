@@ -1,0 +1,1 @@
+# solidity_basic_syntax_notes
